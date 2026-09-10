@@ -1,0 +1,181 @@
+tweet_id,text,gold_intent,gold_escalate
+10000012,How do I change my delivery address for order 515949?,order_status,False
+10000292,What's the status of order 376606?,order_status,False
+10000152,"Love how fast this arrived, thank you! this is ridiculous",general_inquiry,False
+10000188,Still no refund for order 243921 it's been 2 weeks this is ridiculous,return_refund,True
+10000240,Do you ship to Canada? pls help,general_inquiry,False
+10000212,Where is my order?? It was supposed to arrive 3 days ago #order938428 anyone?,order_status,False
+10000134,"Item arrived broken, whole thing is cracked. Order 128887 pls help",product_defect,True
+10000290,"Your customer service is a joke, third time contacting about 119755 anyone?",complaint_escalation,True
+10000040,Do you ship to Canada? thanks,general_inquiry,False
+10000178,"Order 372202 shows delayed with no new date, it's been a week thanks",delivery_issue,True
+10000056,Package says delivered but I never got it. Order 274447 this is ridiculous,delivery_issue,True
+10000158,My gift card isn't working at checkout pls help,billing_payment,True
+10000192,Do you ship to Canada? thanks,general_inquiry,False
+10000090,Package says delivered but I never got it. Order 220956,delivery_issue,True
+10000082,How do I change my delivery address for order 155129?,order_status,False
+10000064,"I want to return this, how do I start a return for order 790504? pls help",return_refund,False
+10000210,What's the status of order 834440? ??,order_status,False
+10000370,Package says delivered but I never got it. Order 317970 thanks,delivery_issue,True
+10000088,"Your customer service is a joke, third time contacting about 364511 ??",complaint_escalation,True
+10000326,"Can't log into my account, keeps saying wrong password thanks",account_login,False
+10000320,Still no refund for order 581265 it's been 2 weeks,return_refund,True
+10000250,"Your customer service is a joke, third time contacting about 395628 thanks",complaint_escalation,True
+10000266,"Charged twice for order 715305, please fix this",billing_payment,True
+10000258,"I want to return this, how do I start a return for order 473905? pls help",return_refund,False
+10000352,"I want to return this, how do I start a return for order 910741? ??",return_refund,False
+10000374,"Item arrived broken, whole thing is cracked. Order 674394 pls help",product_defect,True
+10000182,"Can't log into my account, keeps saying wrong password anyone?",account_login,False
+10000138,"Item arrived broken, whole thing is cracked. Order 675311 thanks",product_defect,True
+10000218,Still no refund for order 227588 it's been 2 weeks this is ridiculous,return_refund,True
+10000338,"Can't log into my account, keeps saying wrong password ??",account_login,False
+10000136,How do I change my delivery address for order 966659? thanks,order_status,False
+10000156,"Love how fast this arrived, thank you!",general_inquiry,False
+10000298,My gift card isn't working at checkout,billing_payment,True
+10000186,"Order 914672 shows delayed with no new date, it's been a week pls help",delivery_issue,True
+10000092,What's the status of order 607337? ??,order_status,False
+10000140,Where is my order?? It was supposed to arrive 3 days ago #order938186 anyone?,order_status,False
+10000070,How do I change my delivery address for order 693851? ??,order_status,False
+10000356,"The product I got is not what I ordered, wrong item entirely 313317 anyone?",wrong_item,True
+10000268,Still no refund for order 419023 it's been 2 weeks anyone?,return_refund,True
+10000284,My gift card isn't working at checkout anyone?,billing_payment,True
+10000170,Where is my order?? It was supposed to arrive 3 days ago #order896910,order_status,False
+10000216,My gift card isn't working at checkout,billing_payment,True
+10000038,My gift card isn't working at checkout thanks,billing_payment,True
+10000126,"Order 507409 shows delayed with no new date, it's been a week",delivery_issue,True
+10000200,"Can't log into my account, keeps saying wrong password thanks",account_login,False
+10000226,"Your customer service is a joke, third time contacting about 419821 thanks",complaint_escalation,True
+10000184,Package says delivered but I never got it. Order 323021 anyone?,delivery_issue,True
+10000102,"Your customer service is a joke, third time contacting about 195431 anyone?",complaint_escalation,True
+10000366,"Your customer service is a joke, third time contacting about 350258 ??",complaint_escalation,True
+10000060,Still no refund for order 840710 it's been 2 weeks this is ridiculous,return_refund,True
+10000252,Where is my order?? It was supposed to arrive 3 days ago #order581771 pls help,order_status,False
+10000016,"The product I got is not what I ordered, wrong item entirely 223514 thanks",wrong_item,True
+10000058,Still no refund for order 243577 it's been 2 weeks,return_refund,True
+10000316,What's the status of order 588992?,order_status,False
+10000110,"Love how fast this arrived, thank you! anyone?",general_inquiry,False
+10000368,"Your customer service is a joke, third time contacting about 513524",complaint_escalation,True
+10000394,What's the status of order 100187?,order_status,False
+10000340,"Order 305249 shows delayed with no new date, it's been a week anyone?",delivery_issue,True
+10000214,"Order 175931 shows delayed with no new date, it's been a week ??",delivery_issue,True
+10000342,Still no refund for order 490303 it's been 2 weeks,return_refund,True
+10000132,Do you ship to Canada? anyone?,general_inquiry,False
+10000360,"Your customer service is a joke, third time contacting about 400111 this is ridiculous",complaint_escalation,True
+10000162,Where is my order?? It was supposed to arrive 3 days ago #order441817 anyone?,order_status,False
+10000128,"Order 287193 shows delayed with no new date, it's been a week this is ridiculous",delivery_issue,True
+10000380,Do you ship to Canada? this is ridiculous,general_inquiry,False
+10000176,My gift card isn't working at checkout thanks,billing_payment,True
+10000074,"Order 917857 shows delayed with no new date, it's been a week",delivery_issue,True
+10000222,"The product I got is not what I ordered, wrong item entirely 844003 pls help",wrong_item,True
+10000272,My gift card isn't working at checkout anyone?,billing_payment,True
+10000066,"Love how fast this arrived, thank you! pls help",general_inquiry,False
+10000112,"The product I got is not what I ordered, wrong item entirely 616719 ??",wrong_item,True
+10000168,My gift card isn't working at checkout thanks,billing_payment,True
+10000036,"Order 612714 shows delayed with no new date, it's been a week this is ridiculous",delivery_issue,True
+10000010,"Your customer service is a joke, third time contacting about 757911 thanks",complaint_escalation,True
+10000206,Still no refund for order 892489 it's been 2 weeks pls help,return_refund,True
+10000280,"Order 649199 shows delayed with no new date, it's been a week",delivery_issue,True
+10000232,Where is my order?? It was supposed to arrive 3 days ago #order119329 anyone?,order_status,False
+10000364,Still no refund for order 412236 it's been 2 weeks ??,return_refund,True
+10000052,Where is my order?? It was supposed to arrive 3 days ago #order328807,order_status,False
+10000004,Where is my order?? It was supposed to arrive 3 days ago #order632084 pls help,order_status,False
+10000076,"Charged twice for order 518359, please fix this this is ridiculous",billing_payment,True
+10000358,"Order 867927 shows delayed with no new date, it's been a week this is ridiculous",delivery_issue,True
+10000350,"I want to return this, how do I start a return for order 378636? this is ridiculous",return_refund,False
+10000390,"Charged twice for order 427172, please fix this",billing_payment,True
+10000336,"Charged twice for order 431431, please fix this",billing_payment,True
+10000294,Do you ship to Canada? thanks,general_inquiry,False
+10000246,Package says delivered but I never got it. Order 755830 anyone?,delivery_issue,True
+10000028,"I want to return this, how do I start a return for order 932967? pls help",return_refund,False
+10000098,"I want to return this, how do I start a return for order 653918? ??",return_refund,False
+10000164,"The product I got is not what I ordered, wrong item entirely 605924",wrong_item,True
+10000244,"Can't log into my account, keeps saying wrong password",account_login,False
+10000348,Package says delivered but I never got it. Order 154124,delivery_issue,True
+10000190,"Charged twice for order 610929, please fix this pls help",billing_payment,True
+10000288,"Charged twice for order 976422, please fix this this is ridiculous",billing_payment,True
+10000114,My gift card isn't working at checkout this is ridiculous,billing_payment,True
+10000372,"I want to return this, how do I start a return for order 574990? ??",return_refund,False
+10000296,Package says delivered but I never got it. Order 881952 anyone?,delivery_issue,True
+10000174,Do you ship to Canada? this is ridiculous,general_inquiry,False
+10000044,What's the status of order 830901? anyone?,order_status,False
+10000124,"Order 784697 shows delayed with no new date, it's been a week ??",delivery_issue,True
+10000308,"Your customer service is a joke, third time contacting about 879319 anyone?",complaint_escalation,True
+10000278,Do you ship to Canada?,general_inquiry,False
+10000220,"The product I got is not what I ordered, wrong item entirely 538053 ??",wrong_item,True
+10000024,What's the status of order 813451? thanks,order_status,False
+10000248,"Item arrived broken, whole thing is cracked. Order 158092",product_defect,True
+10000062,"I want to return this, how do I start a return for order 258252?",return_refund,False
+10000310,"Item arrived broken, whole thing is cracked. Order 113074 this is ridiculous",product_defect,True
+10000344,"Love how fast this arrived, thank you!",general_inquiry,False
+10000194,"Charged twice for order 305253, please fix this ??",billing_payment,True
+10000104,"Can't log into my account, keeps saying wrong password ??",account_login,False
+10000346,My gift card isn't working at checkout,billing_payment,True
+10000084,"Item arrived broken, whole thing is cracked. Order 662685",product_defect,True
+10000078,"Your customer service is a joke, third time contacting about 519894",complaint_escalation,True
+10000022,"The product I got is not what I ordered, wrong item entirely 846702",wrong_item,True
+10000086,Package says delivered but I never got it. Order 318054 thanks,delivery_issue,True
+10000068,Where is my order?? It was supposed to arrive 3 days ago #order252752 this is ridiculous,order_status,False
+10000172,How do I change my delivery address for order 630110? thanks,order_status,False
+10000198,What's the status of order 561853? anyone?,order_status,False
+10000050,What's the status of order 472731? pls help,order_status,False
+10000396,"Love how fast this arrived, thank you! this is ridiculous",general_inquiry,False
+10000144,Where is my order?? It was supposed to arrive 3 days ago #order364067 pls help,order_status,False
+10000330,What's the status of order 609755? this is ridiculous,order_status,False
+10000256,"The product I got is not what I ordered, wrong item entirely 439249 pls help",wrong_item,True
+10000312,Still no refund for order 804644 it's been 2 weeks,return_refund,True
+10000180,"Item arrived broken, whole thing is cracked. Order 536875",product_defect,True
+10000328,"Order 218150 shows delayed with no new date, it's been a week anyone?",delivery_issue,True
+10000120,What's the status of order 306261? ??,order_status,False
+10000026,What's the status of order 714006? this is ridiculous,order_status,False
+10000106,"The product I got is not what I ordered, wrong item entirely 916898 thanks",wrong_item,True
+10000108,How do I change my delivery address for order 950931?,order_status,False
+10000000,"Can't log into my account, keeps saying wrong password this is ridiculous",account_login,False
+10000008,"The product I got is not what I ordered, wrong item entirely 545140",wrong_item,True
+10000276,"Love how fast this arrived, thank you! anyone?",general_inquiry,False
+10000196,Do you ship to Canada?,general_inquiry,False
+10000148,"The product I got is not what I ordered, wrong item entirely 539366",wrong_item,True
+10000362,"Item arrived broken, whole thing is cracked. Order 279057 this is ridiculous",product_defect,True
+10000204,Package says delivered but I never got it. Order 378464 ??,delivery_issue,True
+10000054,Do you ship to Canada? this is ridiculous,general_inquiry,False
+10000034,"The product I got is not what I ordered, wrong item entirely 538433 pls help",wrong_item,True
+10000378,"I want to return this, how do I start a return for order 486196? ??",return_refund,False
+10000146,"I want to return this, how do I start a return for order 900776? thanks",return_refund,False
+10000382,"I want to return this, how do I start a return for order 495172? ??",return_refund,False
+10000116,Do you ship to Canada? ??,general_inquiry,False
+10000160,What's the status of order 749174? anyone?,order_status,False
+10000130,My gift card isn't working at checkout this is ridiculous,billing_payment,True
+10000388,Still no refund for order 360522 it's been 2 weeks this is ridiculous,return_refund,True
+10000282,"Love how fast this arrived, thank you!",general_inquiry,False
+10000208,"Charged twice for order 256623, please fix this thanks",billing_payment,True
+10000142,Do you ship to Canada? this is ridiculous,general_inquiry,False
+10000234,"I want to return this, how do I start a return for order 639214? this is ridiculous",return_refund,False
+10000042,My gift card isn't working at checkout,billing_payment,True
+10000002,"Love how fast this arrived, thank you!",general_inquiry,False
+10000254,What's the status of order 103798? ??,order_status,False
+10000150,"Order 875864 shows delayed with no new date, it's been a week ??",delivery_issue,True
+10000118,"Can't log into my account, keeps saying wrong password pls help",account_login,False
+10000264,Package says delivered but I never got it. Order 377000,delivery_issue,True
+10000100,"Order 128356 shows delayed with no new date, it's been a week",delivery_issue,True
+10000302,What's the status of order 986603? this is ridiculous,order_status,False
+10000224,Still no refund for order 152826 it's been 2 weeks pls help,return_refund,True
+10000166,Where is my order?? It was supposed to arrive 3 days ago #order360565 pls help,order_status,False
+10000236,Package says delivered but I never got it. Order 790298,delivery_issue,True
+10000014,"The product I got is not what I ordered, wrong item entirely 239643 ??",wrong_item,True
+10000306,Package says delivered but I never got it. Order 728836 pls help,delivery_issue,True
+10000122,How do I change my delivery address for order 739906?,order_status,False
+10000386,"Your customer service is a joke, third time contacting about 627848 thanks",complaint_escalation,True
+10000018,"Love how fast this arrived, thank you! pls help",general_inquiry,False
+10000030,How do I change my delivery address for order 414834? thanks,order_status,False
+10000032,Do you ship to Canada? ??,general_inquiry,False
+10000270,How do I change my delivery address for order 654895?,order_status,False
+10000006,"Charged twice for order 538485, please fix this",billing_payment,True
+10000318,"I want to return this, how do I start a return for order 426814?",return_refund,False
+10000080,"I want to return this, how do I start a return for order 562030? pls help",return_refund,False
+10000332,Where is my order?? It was supposed to arrive 3 days ago #order615580 anyone?,order_status,False
+10000376,"Item arrived broken, whole thing is cracked. Order 458566 thanks",product_defect,True
+10000334,Still no refund for order 862506 it's been 2 weeks pls help,return_refund,True
+10000392,Where is my order?? It was supposed to arrive 3 days ago #order545854 anyone?,order_status,False
+10000202,Package says delivered but I never got it. Order 218331,delivery_issue,True
+10000304,"Order 816907 shows delayed with no new date, it's been a week ??",delivery_issue,True
+10000020,How do I change my delivery address for order 769949? pls help,order_status,False
+10000324,How do I change my delivery address for order 194689? pls help,order_status,False

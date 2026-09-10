@@ -1,0 +1,201 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,brand,gold_intent,gold_resolution_style,gold_escalate
+10000000,cust_1000,True,2019-01-12 12:00:00,"Can't log into my account, keeps saying wrong password this is ridiculous",10000001,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000002,cust_1001,True,2019-06-28 12:00:00,"Love how fast this arrived, thank you!",10000003,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000004,cust_1002,True,2019-01-12 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order632084 pls help,10000005,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000006,cust_1003,True,2019-04-12 12:00:00,"Charged twice for order 538485, please fix this",10000007,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000008,cust_1004,True,2019-02-17 12:00:00,"The product I got is not what I ordered, wrong item entirely 545140",10000009,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000010,cust_1005,True,2019-01-28 12:00:00,"Your customer service is a joke, third time contacting about 757911 thanks",10000011,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000012,cust_1006,True,2019-04-11 12:00:00,How do I change my delivery address for order 515949?,10000013,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000014,cust_1007,True,2019-07-14 12:00:00,"The product I got is not what I ordered, wrong item entirely 239643 ??",10000015,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000016,cust_1008,True,2019-05-27 12:00:00,"The product I got is not what I ordered, wrong item entirely 223514 thanks",10000017,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000018,cust_1009,True,2019-02-28 12:00:00,"Love how fast this arrived, thank you! pls help",10000019,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000020,cust_1010,True,2019-06-13 12:00:00,How do I change my delivery address for order 769949? pls help,10000021,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000022,cust_1011,True,2019-01-16 12:00:00,"The product I got is not what I ordered, wrong item entirely 846702",10000023,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000024,cust_1012,True,2019-07-20 12:00:00,What's the status of order 813451? thanks,10000025,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000026,cust_1013,True,2019-06-19 12:00:00,What's the status of order 714006? this is ridiculous,10000027,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000028,cust_1014,True,2019-04-12 12:00:00,"I want to return this, how do I start a return for order 932967? pls help",10000029,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000030,cust_1015,True,2019-08-20 12:00:00,How do I change my delivery address for order 414834? thanks,10000031,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000032,cust_1016,True,2019-02-13 12:00:00,Do you ship to Canada? ??,10000033,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000034,cust_1017,True,2019-06-14 12:00:00,"The product I got is not what I ordered, wrong item entirely 538433 pls help",10000035,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000036,cust_1018,True,2019-01-12 12:00:00,"Order 612714 shows delayed with no new date, it's been a week this is ridiculous",10000037,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000038,cust_1019,True,2019-06-20 12:00:00,My gift card isn't working at checkout thanks,10000039,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000040,cust_1020,True,2019-08-28 12:00:00,Do you ship to Canada? thanks,10000041,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000042,cust_1021,True,2019-02-18 12:00:00,My gift card isn't working at checkout,10000043,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000044,cust_1022,True,2019-02-11 12:00:00,What's the status of order 830901? anyone?,10000045,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000046,cust_1023,True,2019-08-19 12:00:00,Do you ship to Canada? ??,10000047,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000048,cust_1024,True,2019-06-10 12:00:00,Do you ship to Canada? anyone?,10000049,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000050,cust_1025,True,2019-02-25 12:00:00,What's the status of order 472731? pls help,10000051,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000052,cust_1026,True,2019-05-14 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order328807,10000053,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000054,cust_1027,True,2019-07-25 12:00:00,Do you ship to Canada? this is ridiculous,10000055,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000056,cust_1028,True,2019-07-27 12:00:00,Package says delivered but I never got it. Order 274447 this is ridiculous,10000057,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000058,cust_1029,True,2019-07-27 12:00:00,Still no refund for order 243577 it's been 2 weeks,10000059,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000060,cust_1030,True,2019-06-22 12:00:00,Still no refund for order 840710 it's been 2 weeks this is ridiculous,10000061,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000062,cust_1031,True,2019-03-14 12:00:00,"I want to return this, how do I start a return for order 258252?",10000063,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000064,cust_1032,True,2019-01-25 12:00:00,"I want to return this, how do I start a return for order 790504? pls help",10000065,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000066,cust_1033,True,2019-05-19 12:00:00,"Love how fast this arrived, thank you! pls help",10000067,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000068,cust_1034,True,2019-09-21 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order252752 this is ridiculous,10000069,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000070,cust_1035,True,2019-03-26 12:00:00,How do I change my delivery address for order 693851? ??,10000071,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000072,cust_1036,True,2019-01-24 12:00:00,How do I change my delivery address for order 786782? anyone?,10000073,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000074,cust_1037,True,2019-09-22 12:00:00,"Order 917857 shows delayed with no new date, it's been a week",10000075,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000076,cust_1038,True,2019-02-25 12:00:00,"Charged twice for order 518359, please fix this this is ridiculous",10000077,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000078,cust_1039,True,2019-04-12 12:00:00,"Your customer service is a joke, third time contacting about 519894",10000079,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000080,cust_1040,True,2019-02-20 12:00:00,"I want to return this, how do I start a return for order 562030? pls help",10000081,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000082,cust_1041,True,2019-01-28 12:00:00,How do I change my delivery address for order 155129?,10000083,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000084,cust_1042,True,2019-06-10 12:00:00,"Item arrived broken, whole thing is cracked. Order 662685",10000085,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000086,cust_1043,True,2019-07-14 12:00:00,Package says delivered but I never got it. Order 318054 thanks,10000087,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000088,cust_1044,True,2019-06-25 12:00:00,"Your customer service is a joke, third time contacting about 364511 ??",10000089,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000090,cust_1045,True,2019-08-24 12:00:00,Package says delivered but I never got it. Order 220956,10000091,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000092,cust_1046,True,2019-02-14 12:00:00,What's the status of order 607337? ??,10000093,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000094,cust_1047,True,2019-05-25 12:00:00,Package says delivered but I never got it. Order 886090 ??,10000095,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000096,cust_1048,True,2019-09-10 12:00:00,"Love how fast this arrived, thank you! pls help",10000097,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000098,cust_1049,True,2019-03-27 12:00:00,"I want to return this, how do I start a return for order 653918? ??",10000099,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000100,cust_1050,True,2019-09-19 12:00:00,"Order 128356 shows delayed with no new date, it's been a week",10000101,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000102,cust_1051,True,2019-05-26 12:00:00,"Your customer service is a joke, third time contacting about 195431 anyone?",10000103,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000104,cust_1052,True,2019-04-27 12:00:00,"Can't log into my account, keeps saying wrong password ??",10000105,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000106,cust_1053,True,2019-06-17 12:00:00,"The product I got is not what I ordered, wrong item entirely 916898 thanks",10000107,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000108,cust_1054,True,2019-04-17 12:00:00,How do I change my delivery address for order 950931?,10000109,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000110,cust_1055,True,2019-04-16 12:00:00,"Love how fast this arrived, thank you! anyone?",10000111,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000112,cust_1056,True,2019-01-10 12:00:00,"The product I got is not what I ordered, wrong item entirely 616719 ??",10000113,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000114,cust_1057,True,2019-05-16 12:00:00,My gift card isn't working at checkout this is ridiculous,10000115,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000116,cust_1058,True,2019-08-21 12:00:00,Do you ship to Canada? ??,10000117,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000118,cust_1059,True,2019-02-17 12:00:00,"Can't log into my account, keeps saying wrong password pls help",10000119,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000120,cust_1060,True,2019-04-25 12:00:00,What's the status of order 306261? ??,10000121,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000122,cust_1061,True,2019-01-25 12:00:00,How do I change my delivery address for order 739906?,10000123,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000124,cust_1062,True,2019-02-13 12:00:00,"Order 784697 shows delayed with no new date, it's been a week ??",10000125,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000126,cust_1063,True,2019-04-25 12:00:00,"Order 507409 shows delayed with no new date, it's been a week",10000127,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000128,cust_1064,True,2019-06-12 12:00:00,"Order 287193 shows delayed with no new date, it's been a week this is ridiculous",10000129,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000130,cust_1065,True,2019-08-22 12:00:00,My gift card isn't working at checkout this is ridiculous,10000131,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000132,cust_1066,True,2019-03-15 12:00:00,Do you ship to Canada? anyone?,10000133,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000134,cust_1067,True,2019-08-14 12:00:00,"Item arrived broken, whole thing is cracked. Order 128887 pls help",10000135,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000136,cust_1068,True,2019-08-21 12:00:00,How do I change my delivery address for order 966659? thanks,10000137,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000138,cust_1069,True,2019-03-10 12:00:00,"Item arrived broken, whole thing is cracked. Order 675311 thanks",10000139,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000140,cust_1070,True,2019-02-26 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order938186 anyone?,10000141,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000142,cust_1071,True,2019-04-16 12:00:00,Do you ship to Canada? this is ridiculous,10000143,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000144,cust_1072,True,2019-05-26 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order364067 pls help,10000145,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000146,cust_1073,True,2019-06-18 12:00:00,"I want to return this, how do I start a return for order 900776? thanks",10000147,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000148,cust_1074,True,2019-03-11 12:00:00,"The product I got is not what I ordered, wrong item entirely 539366",10000149,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000150,cust_1075,True,2019-08-28 12:00:00,"Order 875864 shows delayed with no new date, it's been a week ??",10000151,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000152,cust_1076,True,2019-09-14 12:00:00,"Love how fast this arrived, thank you! this is ridiculous",10000153,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000154,cust_1077,True,2019-09-10 12:00:00,"The product I got is not what I ordered, wrong item entirely 259211 thanks",10000155,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000156,cust_1078,True,2019-03-10 12:00:00,"Love how fast this arrived, thank you!",10000157,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000158,cust_1079,True,2019-03-14 12:00:00,My gift card isn't working at checkout pls help,10000159,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000160,cust_1080,True,2019-02-27 12:00:00,What's the status of order 749174? anyone?,10000161,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000162,cust_1081,True,2019-09-26 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order441817 anyone?,10000163,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000164,cust_1082,True,2019-02-27 12:00:00,"The product I got is not what I ordered, wrong item entirely 605924",10000165,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000166,cust_1083,True,2019-05-11 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order360565 pls help,10000167,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000168,cust_1084,True,2019-08-27 12:00:00,My gift card isn't working at checkout thanks,10000169,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000170,cust_1085,True,2019-08-20 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order896910,10000171,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000172,cust_1086,True,2019-09-16 12:00:00,How do I change my delivery address for order 630110? thanks,10000173,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000174,cust_1087,True,2019-09-27 12:00:00,Do you ship to Canada? this is ridiculous,10000175,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000176,cust_1088,True,2019-04-26 12:00:00,My gift card isn't working at checkout thanks,10000177,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000178,cust_1089,True,2019-04-24 12:00:00,"Order 372202 shows delayed with no new date, it's been a week thanks",10000179,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000180,cust_1090,True,2019-07-24 12:00:00,"Item arrived broken, whole thing is cracked. Order 536875",10000181,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000182,cust_1091,True,2019-04-23 12:00:00,"Can't log into my account, keeps saying wrong password anyone?",10000183,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000184,cust_1092,True,2019-05-13 12:00:00,Package says delivered but I never got it. Order 323021 anyone?,10000185,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000186,cust_1093,True,2019-06-14 12:00:00,"Order 914672 shows delayed with no new date, it's been a week pls help",10000187,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000188,cust_1094,True,2019-04-13 12:00:00,Still no refund for order 243921 it's been 2 weeks this is ridiculous,10000189,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000190,cust_1095,True,2019-04-15 12:00:00,"Charged twice for order 610929, please fix this pls help",10000191,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000192,cust_1096,True,2019-07-20 12:00:00,Do you ship to Canada? thanks,10000193,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000194,cust_1097,True,2019-06-12 12:00:00,"Charged twice for order 305253, please fix this ??",10000195,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000196,cust_1098,True,2019-06-27 12:00:00,Do you ship to Canada?,10000197,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000198,cust_1099,True,2019-01-22 12:00:00,What's the status of order 561853? anyone?,10000199,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000200,cust_1100,True,2019-05-26 12:00:00,"Can't log into my account, keeps saying wrong password thanks",10000201,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000202,cust_1101,True,2019-04-13 12:00:00,Package says delivered but I never got it. Order 218331,10000203,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000204,cust_1102,True,2019-01-15 12:00:00,Package says delivered but I never got it. Order 378464 ??,10000205,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000206,cust_1103,True,2019-07-18 12:00:00,Still no refund for order 892489 it's been 2 weeks pls help,10000207,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000208,cust_1104,True,2019-09-28 12:00:00,"Charged twice for order 256623, please fix this thanks",10000209,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000210,cust_1105,True,2019-02-18 12:00:00,What's the status of order 834440? ??,10000211,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000212,cust_1106,True,2019-03-23 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order938428 anyone?,10000213,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000214,cust_1107,True,2019-01-12 12:00:00,"Order 175931 shows delayed with no new date, it's been a week ??",10000215,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000216,cust_1108,True,2019-04-12 12:00:00,My gift card isn't working at checkout,10000217,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000218,cust_1109,True,2019-01-20 12:00:00,Still no refund for order 227588 it's been 2 weeks this is ridiculous,10000219,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000220,cust_1110,True,2019-03-11 12:00:00,"The product I got is not what I ordered, wrong item entirely 538053 ??",10000221,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000222,cust_1111,True,2019-02-15 12:00:00,"The product I got is not what I ordered, wrong item entirely 844003 pls help",10000223,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000224,cust_1112,True,2019-04-19 12:00:00,Still no refund for order 152826 it's been 2 weeks pls help,10000225,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000226,cust_1113,True,2019-04-19 12:00:00,"Your customer service is a joke, third time contacting about 419821 thanks",10000227,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000228,cust_1114,True,2019-03-18 12:00:00,What's the status of order 624380? anyone?,10000229,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000230,cust_1115,True,2019-05-11 12:00:00,"Can't log into my account, keeps saying wrong password",10000231,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000232,cust_1116,True,2019-09-27 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order119329 anyone?,10000233,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000234,cust_1117,True,2019-04-24 12:00:00,"I want to return this, how do I start a return for order 639214? this is ridiculous",10000235,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000236,cust_1118,True,2019-07-25 12:00:00,Package says delivered but I never got it. Order 790298,10000237,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000238,cust_1119,True,2019-09-19 12:00:00,"The product I got is not what I ordered, wrong item entirely 975156 this is ridiculous",10000239,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000240,cust_1120,True,2019-06-16 12:00:00,Do you ship to Canada? pls help,10000241,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000242,cust_1121,True,2019-03-22 12:00:00,"Love how fast this arrived, thank you! anyone?",10000243,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000244,cust_1122,True,2019-03-10 12:00:00,"Can't log into my account, keeps saying wrong password",10000245,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000246,cust_1123,True,2019-05-23 12:00:00,Package says delivered but I never got it. Order 755830 anyone?,10000247,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000248,cust_1124,True,2019-07-26 12:00:00,"Item arrived broken, whole thing is cracked. Order 158092",10000249,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000250,cust_1125,True,2019-04-19 12:00:00,"Your customer service is a joke, third time contacting about 395628 thanks",10000251,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000252,cust_1126,True,2019-03-18 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order581771 pls help,10000253,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000254,cust_1127,True,2019-06-20 12:00:00,What's the status of order 103798? ??,10000255,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000256,cust_1128,True,2019-01-19 12:00:00,"The product I got is not what I ordered, wrong item entirely 439249 pls help",10000257,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000258,cust_1129,True,2019-01-20 12:00:00,"I want to return this, how do I start a return for order 473905? pls help",10000259,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000260,cust_1130,True,2019-05-26 12:00:00,"Charged twice for order 187965, please fix this this is ridiculous",10000261,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000262,cust_1131,True,2019-09-10 12:00:00,"Your customer service is a joke, third time contacting about 310742 pls help",10000263,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000264,cust_1132,True,2019-02-14 12:00:00,Package says delivered but I never got it. Order 377000,10000265,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000266,cust_1133,True,2019-07-10 12:00:00,"Charged twice for order 715305, please fix this",10000267,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000268,cust_1134,True,2019-04-12 12:00:00,Still no refund for order 419023 it's been 2 weeks anyone?,10000269,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000270,cust_1135,True,2019-03-22 12:00:00,How do I change my delivery address for order 654895?,10000271,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000272,cust_1136,True,2019-08-14 12:00:00,My gift card isn't working at checkout anyone?,10000273,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000274,cust_1137,True,2019-03-11 12:00:00,Still no refund for order 859332 it's been 2 weeks thanks,10000275,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000276,cust_1138,True,2019-09-23 12:00:00,"Love how fast this arrived, thank you! anyone?",10000277,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000278,cust_1139,True,2019-09-14 12:00:00,Do you ship to Canada?,10000279,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000280,cust_1140,True,2019-09-28 12:00:00,"Order 649199 shows delayed with no new date, it's been a week",10000281,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000282,cust_1141,True,2019-01-28 12:00:00,"Love how fast this arrived, thank you!",10000283,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000284,cust_1142,True,2019-04-12 12:00:00,My gift card isn't working at checkout anyone?,10000285,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000286,cust_1143,True,2019-06-13 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order143895 pls help,10000287,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000288,cust_1144,True,2019-09-11 12:00:00,"Charged twice for order 976422, please fix this this is ridiculous",10000289,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000290,cust_1145,True,2019-09-17 12:00:00,"Your customer service is a joke, third time contacting about 119755 anyone?",10000291,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000292,cust_1146,True,2019-08-12 12:00:00,What's the status of order 376606?,10000293,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000294,cust_1147,True,2019-02-26 12:00:00,Do you ship to Canada? thanks,10000295,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000296,cust_1148,True,2019-08-18 12:00:00,Package says delivered but I never got it. Order 881952 anyone?,10000297,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000298,cust_1149,True,2019-05-17 12:00:00,My gift card isn't working at checkout,10000299,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000300,cust_1150,True,2019-04-24 12:00:00,Do you ship to Canada? pls help,10000301,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000302,cust_1151,True,2019-02-25 12:00:00,What's the status of order 986603? this is ridiculous,10000303,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000304,cust_1152,True,2019-01-16 12:00:00,"Order 816907 shows delayed with no new date, it's been a week ??",10000305,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000306,cust_1153,True,2019-06-18 12:00:00,Package says delivered but I never got it. Order 728836 pls help,10000307,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000308,cust_1154,True,2019-05-28 12:00:00,"Your customer service is a joke, third time contacting about 879319 anyone?",10000309,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000310,cust_1155,True,2019-01-25 12:00:00,"Item arrived broken, whole thing is cracked. Order 113074 this is ridiculous",10000311,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000312,cust_1156,True,2019-04-25 12:00:00,Still no refund for order 804644 it's been 2 weeks,10000313,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000314,cust_1157,True,2019-05-24 12:00:00,Still no refund for order 843305 it's been 2 weeks thanks,10000315,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000316,cust_1158,True,2019-02-27 12:00:00,What's the status of order 588992?,10000317,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000318,cust_1159,True,2019-08-10 12:00:00,"I want to return this, how do I start a return for order 426814?",10000319,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000320,cust_1160,True,2019-09-24 12:00:00,Still no refund for order 581265 it's been 2 weeks,10000321,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000322,cust_1161,True,2019-04-12 12:00:00,Still no refund for order 505639 it's been 2 weeks pls help,10000323,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000324,cust_1162,True,2019-09-18 12:00:00,How do I change my delivery address for order 194689? pls help,10000325,,AmazonHelp,order_status,explain_address_change_window_before_shipping,False
+10000326,cust_1163,True,2019-09-18 12:00:00,"Can't log into my account, keeps saying wrong password thanks",10000327,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000328,cust_1164,True,2019-06-17 12:00:00,"Order 218150 shows delayed with no new date, it's been a week anyone?",10000329,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000330,cust_1165,True,2019-01-15 12:00:00,What's the status of order 609755? this is ridiculous,10000331,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000332,cust_1166,True,2019-08-22 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order615580 anyone?,10000333,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000334,cust_1167,True,2019-07-21 12:00:00,Still no refund for order 862506 it's been 2 weeks pls help,10000335,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000336,cust_1168,True,2019-06-10 12:00:00,"Charged twice for order 431431, please fix this",10000337,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000338,cust_1169,True,2019-07-13 12:00:00,"Can't log into my account, keeps saying wrong password ??",10000339,,AmazonHelp,account_login,reset_password_link_or_2fa_troubleshooting,False
+10000340,cust_1170,True,2019-01-19 12:00:00,"Order 305249 shows delayed with no new date, it's been a week anyone?",10000341,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000342,cust_1171,True,2019-07-22 12:00:00,Still no refund for order 490303 it's been 2 weeks,10000343,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000344,cust_1172,True,2019-06-23 12:00:00,"Love how fast this arrived, thank you!",10000345,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000346,cust_1173,True,2019-01-18 12:00:00,My gift card isn't working at checkout,10000347,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000348,cust_1174,True,2019-05-14 12:00:00,Package says delivered but I never got it. Order 154124,10000349,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000350,cust_1175,True,2019-09-20 12:00:00,"I want to return this, how do I start a return for order 378636? this is ridiculous",10000351,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000352,cust_1176,True,2019-07-10 12:00:00,"I want to return this, how do I start a return for order 910741? ??",10000353,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000354,cust_1177,True,2019-07-27 12:00:00,My gift card isn't working at checkout anyone?,10000355,,AmazonHelp,billing_payment,troubleshoot_gift_card_or_escalate_to_billing,True
+10000356,cust_1178,True,2019-02-11 12:00:00,"The product I got is not what I ordered, wrong item entirely 313317 anyone?",10000357,,AmazonHelp,wrong_item,apologize_offer_replacement_or_refund_no_return_needed,True
+10000358,cust_1179,True,2019-08-14 12:00:00,"Order 867927 shows delayed with no new date, it's been a week this is ridiculous",10000359,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000360,cust_1180,True,2019-01-27 12:00:00,"Your customer service is a joke, third time contacting about 400111 this is ridiculous",10000361,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000362,cust_1181,True,2019-07-20 12:00:00,"Item arrived broken, whole thing is cracked. Order 279057 this is ridiculous",10000363,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000364,cust_1182,True,2019-05-22 12:00:00,Still no refund for order 412236 it's been 2 weeks ??,10000365,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000366,cust_1183,True,2019-08-27 12:00:00,"Your customer service is a joke, third time contacting about 350258 ??",10000367,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000368,cust_1184,True,2019-03-15 12:00:00,"Your customer service is a joke, third time contacting about 513524",10000369,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000370,cust_1185,True,2019-08-27 12:00:00,Package says delivered but I never got it. Order 317970 thanks,10000371,,AmazonHelp,delivery_issue,apologize_open_investigation_offer_replacement_or_refund,True
+10000372,cust_1186,True,2019-08-23 12:00:00,"I want to return this, how do I start a return for order 574990? ??",10000373,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000374,cust_1187,True,2019-04-12 12:00:00,"Item arrived broken, whole thing is cracked. Order 674394 pls help",10000375,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000376,cust_1188,True,2019-02-20 12:00:00,"Item arrived broken, whole thing is cracked. Order 458566 thanks",10000377,,AmazonHelp,product_defect,apologize_offer_replacement_or_refund_no_return_needed,True
+10000378,cust_1189,True,2019-04-10 12:00:00,"I want to return this, how do I start a return for order 486196? ??",10000379,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000380,cust_1190,True,2019-07-26 12:00:00,Do you ship to Canada? this is ridiculous,10000381,,AmazonHelp,general_inquiry,provide_shipping_info_link,False
+10000382,cust_1191,True,2019-06-11 12:00:00,"I want to return this, how do I start a return for order 495172? ??",10000383,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
+10000384,cust_1192,True,2019-06-14 12:00:00,What's the status of order 390996? thanks,10000385,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000386,cust_1193,True,2019-04-12 12:00:00,"Your customer service is a joke, third time contacting about 627848 thanks",10000387,,AmazonHelp,complaint_escalation,de_escalate_apologize_route_to_specialist,True
+10000388,cust_1194,True,2019-07-24 12:00:00,Still no refund for order 360522 it's been 2 weeks this is ridiculous,10000389,,AmazonHelp,return_refund,escalate_to_refund_team_check_bank_processing_time,True
+10000390,cust_1195,True,2019-01-14 12:00:00,"Charged twice for order 427172, please fix this",10000391,,AmazonHelp,billing_payment,apologize_open_billing_investigation,True
+10000392,cust_1196,True,2019-08-28 12:00:00,Where is my order?? It was supposed to arrive 3 days ago #order545854 anyone?,10000393,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000394,cust_1197,True,2019-07-26 12:00:00,What's the status of order 100187?,10000395,,AmazonHelp,order_status,ask_for_order_id_then_tracking_link,False
+10000396,cust_1198,True,2019-04-13 12:00:00,"Love how fast this arrived, thank you! this is ridiculous",10000397,,AmazonHelp,general_inquiry,thank_customer_no_action_needed,False
+10000398,cust_1199,True,2019-09-13 12:00:00,"I want to return this, how do I start a return for order 261877? pls help",10000399,,AmazonHelp,return_refund,point_to_self_serve_returns_center,False
