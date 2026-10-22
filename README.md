@@ -1,20 +1,21 @@
 <div align="center">
 
-<a href="https://github.com/varunjain2409/iver-sde-support-agent"><img src="https://img.shields.io/badge/GitHub-varunjain2409%2Fiver-sde-support-agent-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/varunjain2409/iver-sde-support-agent/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
-<a href="https://github.com/varunjain2409/iver-sde-support-agent/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
-<a href="https://github.com/varunjain2409/iver-sde-support-agent/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
-<a href="https://github.com/varunjain2409/iver-sde-support-agent/issues"><img src="https://img.shields.io/github/issues/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Issues"/></a>
-<a href="https://github.com/varunjain2409/iver-sde-support-agent/graphs/contributors"><img src="https://img.shields.io/github/contributors/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Contributors"/></a>
-<img src="https://img.shields.io/github/repo-size/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Size"/>
-<img src="https://img.shields.io/github/languages/top/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
+<a href="https://github.com/varunjain2409/iver-sde-support-agent"><img src="https://img.shields.io/badge/GitHub-varunjain2409%2Fiver--sde--support--agent-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/varunjain2409/iver-sde-support-agent/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
+<a href="https://github.com/varunjain2409/iver-sde-support-agent/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
+<a href="https://github.com/varunjain2409/iver-sde-support-agent/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
+<a href="https://github.com/varunjain2409/iver-sde-support-agent/issues"><img src="https://img.shields.io/github/issues/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/></a>
+<a href="https://github.com/varunjain2409/iver-sde-support-agent/graphs/contributors"><img src="https://img.shields.io/github/contributors/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Contributors"/></a>
+<img src="https://img.shields.io/github/repo-size/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Size"/>
+<img src="https://img.shields.io/github/languages/top/varunjain2409/iver-sde-support-agent?style=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
 <img src="https://img.shields.io/badge/License-MIT-00C2A8?style=for-the-badge&logo=open%20source%20initiative&logoColor=white" alt="License"/>
+<img src="https://img.shields.io/github/actions/workflow/status/varunjain2409/iver-sde-support-agent/main?style=flat&logo=githubactions&logoColor=white&label=CI" alt="CI"/>
 
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="Python-3.x-blue?logo=python"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="pytest-0A9EDC?logo=pytest"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="GitHub%20Actions-2088FF?logo=githubactions"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="JSON-000000?logo=json"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="NumPy-013243?logo=numpy"/>
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python-3.x-blue?logo=python"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest-0A9EDC?logo=pytest"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub%20Actions-2088FF?logo=githubactions"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON-000000?logo=json"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy-013243?logo=numpy"/>
 
 </div>
 
